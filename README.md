@@ -8,11 +8,9 @@ MSc Bioinformatics student passionate about building **reproducible pipelines** 
 
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/shivani-jambulingam/
-- Email: <your.email@domain.com>
+- Email: shivanijpillai@gmail.com
 
-## 📂 Featured (to be updated with your repos)
+## 📂 Featured (to be updated with repos)
 - RNA‑seq Pipeline (DEG + enrichment) — _coming soon_
 - scRNA‑seq Lung Tumor Analysis (Seurat) — _coming soon_
 - OCD Therapeutics Docking (D3 receptor) — _coming soon_
-
-> Tip: Pin 3–4 repos on your GitHub profile so these show up first.
